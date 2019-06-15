@@ -36,5 +36,4 @@ testem.log
 .DS_Store
 Thumbs.db
 .editorconfig
-dist/*
 screenshots/*
